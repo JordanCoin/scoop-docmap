@@ -1,12 +1,12 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JordanCoin/docmap/releases/download/v0.2.4/docmap_0.2.4_windows_amd64.zip",
+            "url": "https://github.com/JordanCoin/docmap/releases/download/v0.2.3/docmap_0.2.3_windows_amd64.zip",
             "bin": [
                 "docmap.exe"
             ],
-            "hash": "0e262f7d10493ed6feab2eb193c088b435f7b58264e5e77cff976d4491523692"
+            "hash": "2a1248297b2c5f2f12db738160118ec964ca0c2ad32fc09812ddb010e7ef6f9f"
         }
     },
     "homepage": "https://github.com/JordanCoin/docmap",
